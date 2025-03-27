@@ -19,7 +19,7 @@ A modular and customizable WhatsApp bot for group chats, built with [whatsapp-we
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/whatsapp-group-bot.git
+git clone https://github.com/juanary/whatsapp-group-bot.git
 cd whatsapp-group-bot
 ```
 
