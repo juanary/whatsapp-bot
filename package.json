@@ -1,0 +1,24 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "A modular and customizable WhatsApp bot for group chats, built with [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js). This bot can respond to commands, moderate conversations, and interact with external APIs or databases.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanary/whatsapp-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanary/whatsapp-bot/issues"
+  },
+  "homepage": "https://github.com/juanary/whatsapp-bot#readme",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
