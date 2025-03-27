@@ -21,3 +21,35 @@ A modular and customizable WhatsApp bot for group chats, built with [whatsapp-we
 ```bash
 git clone https://github.com/your-username/whatsapp-group-bot.git
 cd whatsapp-group-bot
+```
+
+2. **Install dependencies**
+
+```bash
+
+npm install
+```
+
+3. **Start the bot**
+
+```bash
+npm start
+```
+On first run, you'll be prompted to scan a QR code with your WhatsApp account.
+
+
+## 📁 Folder Structure
+
+```bash
+
+/commands      -> Custom command scripts
+/events        -> Listeners for WhatsApp events
+/helpers       -> Utility functions
+index.js       -> Entry point
+```
+
+License
+GPL-3.0 License. See LICENSE for more information.
+
+🙌 Credits
+Based on whatsapp-web.js by @pedroslopez.
