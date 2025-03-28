@@ -1,5 +1,5 @@
 /*
- * index.js - Punto de entrada para nuestro bot de WhatsApp
+ * index.js - Punto de entrada para el botardo
  *
  * By: juan (vynoka) & nade
  * para iniciar el programa, en terminal pones: node index.js
@@ -59,10 +59,9 @@ const loadCommands = () => {
 loadEvents();
 loadCommands();
 
-// Inicializamos el cliente para arrancar el bot
+// se arranca el cliente y el bot
 client.initialize();
 
-// Eventos extra para ver en la consola lo que está pasando (para debuggeo)
 client.on('authenticated', () => {
     console.log('¡El cliente está autenticado!');
 });

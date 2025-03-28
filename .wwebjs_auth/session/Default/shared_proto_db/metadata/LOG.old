@@ -1,2 +1,3 @@
-2025/03/27-21:19:17.338 3a74 Creating DB C:\Users\juanc\Documents\GitHub\whatsapp-bot\.wwebjs_auth\session\Default\shared_proto_db\metadata since it was missing.
-2025/03/27-21:19:17.344 3a74 Reusing MANIFEST C:\Users\juanc\Documents\GitHub\whatsapp-bot\.wwebjs_auth\session\Default\shared_proto_db\metadata/MANIFEST-000001
+2025/03/27-22:47:37.399 4ca8 Reusing MANIFEST C:\Users\juanc\Documents\GitHub\whatsapp-bot\.wwebjs_auth\session\Default\shared_proto_db\metadata/MANIFEST-000001
+2025/03/27-22:47:37.400 4ca8 Recovering log #3
+2025/03/27-22:47:37.401 4ca8 Reusing old log C:\Users\juanc\Documents\GitHub\whatsapp-bot\.wwebjs_auth\session\Default\shared_proto_db\metadata/000003.log 
