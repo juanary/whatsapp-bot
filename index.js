@@ -14,7 +14,7 @@ const path = require('path');
 const client = new Client({
     authStrategy: new LocalAuth(),
     puppeteer: {
-        headless: true, // Ponelo en false si querés ver la ventana del navegador y seguir el proceso
+        headless: false, // Ponelo en false si querés ver la ventana del navegador y seguir el proceso
         args: [
             '--no-sandbox',
             '--disable-setuid-sandbox'

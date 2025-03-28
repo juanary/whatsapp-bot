@@ -1,3 +1,2 @@
-2025/03/26-23:27:00.182 12ac Reusing MANIFEST C:\Users\juanc\Documents\GitHub\whatsapp-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2025/03/26-23:27:00.182 12ac Recovering log #3
-2025/03/26-23:27:00.183 12ac Reusing old log C:\Users\juanc\Documents\GitHub\whatsapp-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2025/03/27-21:19:17.259 353c Creating DB C:\Users\juanc\Documents\GitHub\whatsapp-bot\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
+2025/03/27-21:19:17.264 353c Reusing MANIFEST C:\Users\juanc\Documents\GitHub\whatsapp-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001

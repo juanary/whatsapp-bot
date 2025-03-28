@@ -1,3 +1,2 @@
-2025/03/26-23:27:00.250 3308 Reusing MANIFEST C:\Users\juanc\Documents\GitHub\whatsapp-bot\.wwebjs_auth\session\Default\Service Worker\Database/MANIFEST-000001
-2025/03/26-23:27:00.250 3308 Recovering log #3
-2025/03/26-23:27:00.251 3308 Reusing old log C:\Users\juanc\Documents\GitHub\whatsapp-bot\.wwebjs_auth\session\Default\Service Worker\Database/000003.log 
+2025/03/27-21:19:18.451 35f8 Creating DB C:\Users\juanc\Documents\GitHub\whatsapp-bot\.wwebjs_auth\session\Default\Service Worker\Database since it was missing.
+2025/03/27-21:19:18.455 35f8 Reusing MANIFEST C:\Users\juanc\Documents\GitHub\whatsapp-bot\.wwebjs_auth\session\Default\Service Worker\Database/MANIFEST-000001

@@ -1,3 +1,2 @@
-2025/03/26-23:27:00.143 380c Reusing MANIFEST C:\Users\juanc\Documents\GitHub\whatsapp-bot\.wwebjs_auth\session\Default\Site Characteristics Database/MANIFEST-000001
-2025/03/26-23:27:00.144 380c Recovering log #3
-2025/03/26-23:27:00.144 380c Reusing old log C:\Users\juanc\Documents\GitHub\whatsapp-bot\.wwebjs_auth\session\Default\Site Characteristics Database/000003.log 
+2025/03/27-21:19:17.216 4c80 Creating DB C:\Users\juanc\Documents\GitHub\whatsapp-bot\.wwebjs_auth\session\Default\Site Characteristics Database since it was missing.
+2025/03/27-21:19:17.232 4c80 Reusing MANIFEST C:\Users\juanc\Documents\GitHub\whatsapp-bot\.wwebjs_auth\session\Default\Site Characteristics Database/MANIFEST-000001
